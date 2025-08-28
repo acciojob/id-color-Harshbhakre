@@ -4,9 +4,9 @@
 }
 #green{
 	background-color:green;
-	border:1px solid black;
+	border:1px solid yellow;
 }
 #red{
 	background-color:red;
-	border:1px solid yellow;
+	border:1px solid black;
 }
